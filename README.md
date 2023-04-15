@@ -17,7 +17,7 @@
 
 
 ### Description
-This is a API for the backend of a social media   website
+This is a API for the backend of a social media website
 
 ### Installation Instructions
 npm i

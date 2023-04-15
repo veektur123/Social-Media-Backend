@@ -1,12 +1,12 @@
 {
-  "name": "25-Ins_Mongoose-CRUD",
+  "name": "social-media-backend",
   "version": "1.0.1",
   "description": "Instructor demo for CRUD operations in Mongoose on subdocuments",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index",
+    "start": "node server",
+    "dev": "nodemon server",
     "seed": "node utils/seed"
   },
   "dependencies": {

@@ -35,6 +35,10 @@ N/A
 Github : [veektur123](https://github.com/veektur123/)
 E-Mail :veektur@hotmail.com
 
+### Video Walkthrough 
+https://drive.google.com/file/d/1Z6c2MDEkvWSOS5RkwaL6gIQdd5UE769N/view
+
 ### License
 This project is licensed by: MIT License
     
+
